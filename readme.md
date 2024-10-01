@@ -37,7 +37,7 @@ Session Manager is a Node.js application that allows users to upload `.zip` file
 3. **Run the server**:
 
    ```bash
-   node server.js
+   npm start
    ```
 
    Make sure the server is running on the specified port (default: 3000).
