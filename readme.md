@@ -24,7 +24,7 @@ Session Manager is a Node.js application that allows users to upload `.zip` file
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/session-manager.git
+   git clone https://github.com/AstroX10/session-manager.git
    cd session-manager
    ```
 
