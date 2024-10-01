@@ -9,7 +9,7 @@ import { dirname } from 'path';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 const app = express();
-const PORT = 3000;
+const PORT = 5000;
 
 // Directory to store files
 const AUTH_DIR = path.join(__dirname, 'auth');
