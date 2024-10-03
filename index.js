@@ -89,8 +89,9 @@ app.get('/download/:accessKey', (req, res) => {
     }
   });
 });
-
-
+app.listen(PORT, () => {
+  console.log(`Server running on http://localhost:${PORT}`);
+});
 
 
 /*import express from 'express';
